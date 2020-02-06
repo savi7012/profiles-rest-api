@@ -1,6 +1,6 @@
 # A Profile REST API 
 
-A simple Profile api using Django Rest Framework  with sign-up, login ,users feed (store and edit ), authentication features.
+A simple profile api using Django Rest Framework  with sign-up, login ,users feed (store, edit and private view ), authentication features.
 
 ## Tools, Technologies and Libs
 
