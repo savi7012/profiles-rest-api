@@ -73,7 +73,7 @@ class HelloViewSet(viewsets.ViewSet):
         serializer = self.serializer_class(data=request.data)
         if serializer.is_valid():
             name = serializer.validated_data.get('name')
-            message = f'Hello {name}!'
+            #message = f'Hello {name}!'
             return Response({'message':message})
         else:
             return Response(
