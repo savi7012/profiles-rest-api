@@ -13,7 +13,7 @@ SQLite3
 
 Amazon Web Service (EC2 Instance)
 
-## Authors
+## Authors 
 
-* **Vishal Saini** - *-->* - [LinkedIn](https://www.linkedin.com/in/vishal-saini-38043a101/)
+* ***Vishal Saini*** - *-->* - [LinkedIn](https://www.linkedin.com/in/vishal-saini-38043a101/)
 
